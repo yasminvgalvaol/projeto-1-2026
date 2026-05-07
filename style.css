@@ -4,4 +4,15 @@ body{
 
 header{
     background-color: rgb(0, 148, 123);
+    text-align: center;
+}
+
+#gabi.minions.jped{
+width: 30%
+}
+
+.paragrafo{
+    text-aling: center;
+    padding: 50px;
+    font-size: 20px;
 }
